@@ -1,0 +1,6 @@
+{
+  "name": "The Hospital - Plastic & Cosmetic Surgery Islamabad",
+  "description": "Premium plastic, cosmetic, and reconstructive surgery hospital in G-8/4 Islamabad led by Dr. Humayun Mohmand (FRCS) and Dr. Shazma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
